@@ -42,5 +42,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HLrahul&icon=0&color=9)](https://visitcount.itsvg.in)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hlrahul&label=Profile%20views&color=0e75b6&style=flat" alt="hlrahul" /> </p>
