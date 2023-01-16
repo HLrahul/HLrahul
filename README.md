@@ -16,7 +16,7 @@
   
 - 📫 How to reach me **rahuls10org@gmail.com**<br>
   
-- ⚡ Fun fact **Allergic to OOP's!**
+- ⚡ Fun fact, **I am Allergic to OOP's!, catching cold often! 🤧😅**
   
 </p>
 
