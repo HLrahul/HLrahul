@@ -10,7 +10,7 @@
   
 - 🔭 I’m currently working on **COURIER BILLING**<br>
   
-- 🌱 I’m currently learning **Tailwind CSS**<br>
+- 🌱 I’m currently learning **WEB DEV**<br>
   
 - 💬 Ask me about **Computers && Games**<br>
   
