@@ -1,6 +1,28 @@
-<span align="center"> 
-  
-  # Hi there! <h1>Inline hands <span class="wave">👋🏾</span> work also!</h1> RAHUL here 😊 
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="github-markdown.css">
+<style>
+  .wave {
+  animation-name: wave-animation;
+  animation-duration: 2.5s;        
+  animation-iteration-count: infinite;  
+  transform-origin: 70% 70%;       
+  display: inline-block;
+}
+
+@keyframes wave-animation {
+    0% { transform: rotate( 0.0deg) }
+   10% { transform: rotate(14.0deg) } 
+   20% { transform: rotate(-8.0deg) }
+   30% { transform: rotate(14.0deg) }
+   40% { transform: rotate(-4.0deg) }
+   50% { transform: rotate(10.0deg) }
+   60% { transform: rotate( 0.0deg) } 
+  100% { transform: rotate( 0.0deg) }
+}
+</style>
+
+<span align="center">   
+  # Hi there! <span class="wave">👋🏾</span> RAHUL here 😊 
 </span>
 <h3 align="center"> A passionate Developer and Computer Enthusiast from INDIA </h3>
 
