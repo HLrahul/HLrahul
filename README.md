@@ -1,6 +1,6 @@
 <span align="center"> 
   
-  # Hi there! ✌️ RAHUL here 😊 
+  # Hi there! <h1>Inline hands <span class="wave">👋🏾</span> work also!</h1> RAHUL here 😊 
 </span>
 <h3 align="center"> A passionate Developer and Computer Enthusiast from INDIA </h3>
 
