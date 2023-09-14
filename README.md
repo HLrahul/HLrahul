@@ -1,29 +1,5 @@
-<style>
-  
-  .wave {
-    animation-name: wave-animation;
-    animation-duration: 2.5s;        
-    animation-iteration-count: infinite;  
-    transform-origin: 70% 70%;       
-    display: inline-block;
-  }
-
-  @keyframes wave-animation {
-      0% { transform: rotate( 0.0deg) }
-     10% { transform: rotate(14.0deg) } 
-     20% { transform: rotate(-8.0deg) }
-     30% { transform: rotate(14.0deg) }
-     40% { transform: rotate(-4.0deg) }
-     50% { transform: rotate(10.0deg) }
-     60% { transform: rotate( 0.0deg) } 
-    100% { transform: rotate( 0.0deg) }
-  }
-  
-</style>
-
-<span align="center">   
-  # Hi there! <span class="wave">👋🏾</span> RAHUL here 😊 
-</span>
+ 
+## Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> RAHUL here 😊. 
 <h3 align="center"> A passionate Developer and Computer Enthusiast from INDIA </h3>
 
 <img align="right" height="320px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="GIF" />
