@@ -5,7 +5,7 @@
 
 <p align="left">
   
-- 🔭 I’m currently working on **PORTFOLIO**<br>
+- 🔭 I’m currently working on **C2GATHER**<br>
   
 - 🌱 I’m currently learning **WEB DEV**<br>
   
